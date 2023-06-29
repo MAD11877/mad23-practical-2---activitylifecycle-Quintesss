@@ -5,5 +5,5 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.MADpract2" parent="Base.Theme.MADpract2" />
+    <style name="Theme.madpractical" parent="Base.Theme.MADpract2" />
 </resources>
